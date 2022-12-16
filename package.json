@@ -1,13 +1,12 @@
 {
-  "private": true,
-  "name": "imask",
+  "name": "imask-module",
+  "version": "0.0.1",
   "author": "Alexey Kryazhev",
   "license": "MIT",
   "description": "vanilla javascript input mask",
   "bugs": "https://github.com/uNmAnNeR/imaskjs/issues",
   "homepage": "https://imask.js.org/",
   "repository": "https://github.com/uNmAnNeR/imaskjs",
-  "type": "module",
   "devDependencies": {
     "@babel/core": "^7.14.6",
     "@babel/eslint-parser": "^7.16.5",

@@ -3,6 +3,7 @@
   "author": "Alexey Kryazhev",
   "license": "MIT",
   "version": "6.4.3",
+  "type": "module",
   "description": "Angular IMask Plugin",
   "repository": "https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask",
   "scripts": {
